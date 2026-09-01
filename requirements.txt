@@ -1,0 +1,2 @@
+# discord.py 2.x (または py-cord を使う場合は py-cord)
+discord.py>=2.3.0
