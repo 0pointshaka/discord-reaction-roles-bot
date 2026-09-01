@@ -1,0 +1,4 @@
+# secrets & logs
+config.json
+logs/
+.env
